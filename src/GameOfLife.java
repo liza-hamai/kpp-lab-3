@@ -1,5 +1,3 @@
-package ua.knu.life;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
