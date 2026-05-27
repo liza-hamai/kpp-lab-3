@@ -48,8 +48,8 @@ public class GameOfLife extends JFrame {
         JButton btnStop     = new JButton("⏸ Пауза");
         JButton btnStep     = new JButton("⏭ Крок");
         JButton btnRandom   = new JButton("🔀 Випадково");
-        JButton btnClear    = new JButton("🗑 Очистити");
-        JButton btnGlider   = new JButton("🛸 Планер");
+        JButton btnClear    = new JButton("Очистити");
+        JButton btnGlider   = new JButton("Планер");
 
         statusLabel = new JLabel("Покоління: 0  |  ЛКМ — додати клітину, ПКМ — видалити");
         statusLabel.setBorder(BorderFactory.createEmptyBorder(4, 8, 4, 8));
